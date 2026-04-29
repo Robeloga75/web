@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260429192853CE4KLN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429192853Q5U9FE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>HISTORIAS DE LA 2ª GUERRA MUNDIAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Otra visión del conflicto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Roberto López García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Visionado de &quot;Los últimos españoles de Mathausen&quot; y resolución de un test sobre el documental.
+Búsqueda de información sobre otras historias relacionadas con la 2ªGM, elaboración de una presentación y exposición.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777481256793</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mokag3dq-rc548roow</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3dq-rc548roow</odePageId>
+      <odeBlockId>block-1777301630667-xdp2enb4z</odeBlockId>
+      <blockName>DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3dq-rc548roow</odePageId>
+          <odeBlockId>block-1777301630667-xdp2enb4z</odeBlockId>
+          <odeIdeviceId>idevice-1777301630663-prtm14bo4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Etapa y nivel: 4º ESO</p>
+<p>2. Área: Geografía e Historia. 3er trimestre. Unidad 6: La Segunda Guerra Mundial</p>
+<p>3. Agrupamientos:</p>
+<p>Individual: Visionado del documental y respuesta a las preguntas sobre el mismo.</p>
+<p>Parejas o tríos: Búsqueda de información, elaboración de la infografía y exposición.</p>
+<p>Grupo clase: Puesta en común y repaso de la unidad.</p>
+<p>4. Temporalización: 9 sesiones (3 para el documental, 3 para la presentación, 1 de puesta en común, 1 para el podcast y 1 de salida didáctica.</p>
+<p>5. Productos: </p>
+<p>a) Test sobre "Los últimos españoles de Mathausen"</p>
+<p>b) Infografía</p>
+<p>c) Podcast</p>
+<p>6. Herramientas tecnológicas: </p>
+<p>a) Ordenador de clase, Youtube y proyector.</p>
+<p>b) Portátiles del centro, buscadores, Canva (o similar).</p>
+<p>c) Grabadora (móvil o portátil)</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777301630663-prtm14bo4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Etapa y nivel: 4º ESO</p>\n<p>2. Área: Geografía e Historia. 3er trimestre. Unidad 6: La Segunda Guerra Mundial</p>\n<p>3. Agrupamientos:</p>\n<p>Individual: Visionado del documental y respuesta a las preguntas sobre el mismo.</p>\n<p>Parejas o tríos: Búsqueda de información, elaboración de la infografía y exposición.</p>\n<p>Grupo clase: Puesta en común y repaso de la unidad.</p>\n<p>4. Temporalización: 9 sesiones (3 para el documental, 3 para la presentación, 1 de puesta en común, 1 para el podcast y 1 de salida didáctica.</p>\n<p>5. Productos: </p>\n<p>a) Test sobre \"Los últimos españoles de Mathausen\"</p>\n<p>b) Infografía</p>\n<p>c) Podcast</p>\n<p>6. Herramientas tecnológicas: </p>\n<p>a) Ordenador de clase, Youtube y proyector.</p>\n<p>b) Portátiles del centro, buscadores, Canva (o similar).</p>\n<p>c) Grabadora (móvil o portátil)</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3dw-b77fkk803</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3dw-b77fkk803</odePageId>
+      <odeBlockId>block-1777301928557-agikt7vj9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3dw-b77fkk803</odePageId>
+          <odeBlockId>block-1777301928557-agikt7vj9</odeBlockId>
+          <odeIdeviceId>idevice-1777301928555-nkpx5ir6g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Justificación:</p>
+<p>Estudio de algunos aspectos menos conocidos de la 2ª Guerra Mundial.</p>
+<p>Objetivo:</p>
+<p>Empatía con los hechos vividos por las personas estudiadas.</p>
+<p>ODS</p>
+<p>ODS n.º 4. Educación de calidad.</p>
+<p>ODS n.º 8. Trabajo decente y crecimiento económico.</p>
+<p>ODS n.º 10. Reducción de las desigualdades.</p>
+<p>ODS n.º 16. Paz, justicia e instituciones sólidas.</p>
+<p>ODS n.º 17. Alianzas para lograr los objetivos.</p>
+<p>Retos del S. XXI</p>
+<p>- Transformación Digital y Ética</p>
+<p>- Educación y Ciudadanía</p>
+<p>- Convivencia Pacífica</p>
+<p> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777301928555-nkpx5ir6g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Justificación:</p>\n<p>Estudio de algunos aspectos menos conocidos de la 2ª Guerra Mundial.</p>\n<p>Objetivo:</p>\n<p>Empatía con los hechos vividos por las personas estudiadas.</p>\n<p>ODS</p>\n<p>ODS n.º 4. Educación de calidad.</p>\n<p>ODS n.º 8. Trabajo decente y crecimiento económico.</p>\n<p>ODS n.º 10. Reducción de las desigualdades.</p>\n<p>ODS n.º 16. Paz, justicia e instituciones sólidas.</p>\n<p>ODS n.º 17. Alianzas para lograr los objetivos.</p>\n<p>Retos del S. XXI</p>\n<p>- Transformación Digital y Ética</p>\n<p>- Educación y Ciudadanía</p>\n<p>- Convivencia Pacífica</p>\n<p> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3dx-kfihpulyk</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3dx-kfihpulyk</odePageId>
+      <odeBlockId>block-1777302201187-vbjzfqe0x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3dx-kfihpulyk</odePageId>
+          <odeBlockId>block-1777302201187-vbjzfqe0x</odeBlockId>
+          <odeIdeviceId>idevice-1777302201186-jzmk9etnv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se concretan siguientes elementos curriculares:</p>
+<p>Competencias clave, competencias específicas de la materia de Geografía e Historia para la Enseñanza Secundaria Obligatoria, los saberes básicos y los criterios de evaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302201186-jzmk9etnv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se concretan siguientes elementos curriculares:</p>\n<p>Competencias clave, competencias específicas de la materia de Geografía e Historia para la Enseñanza Secundaria Obligatoria, los saberes básicos y los criterios de evaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3dz-7z51bamcd</odePageId>
+  <odeParentPageId>page-mokag3dx-kfihpulyk</odeParentPageId>
+  <pageName>Competencias clave</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3dz-7z51bamcd</odePageId>
+      <odeBlockId>block-1777302266480-h8scq1lh9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3dz-7z51bamcd</odePageId>
+          <odeBlockId>block-1777302266480-h8scq1lh9</odeBlockId>
+          <odeIdeviceId>idevice-1777302266478-4obmvyxlp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias clave</p>
+<p><br />Competencia en comunicación lingüística (CCL).</p>
+<p>Competencia digital (CD).</p>
+<p>Competencia personal, social y de aprender a aprender (CPSAA).</p>
+<p>Competencia ciudadana (CC).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302266478-4obmvyxlp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias clave</p>\n<p><br />Competencia en comunicación lingüística (CCL).</p>\n<p>Competencia digital (CD).</p>\n<p>Competencia personal, social y de aprender a aprender (CPSAA).</p>\n<p>Competencia ciudadana (CC).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e0-efgj9953h</odePageId>
+  <odeParentPageId>page-mokag3dx-kfihpulyk</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e0-efgj9953h</odePageId>
+      <odeBlockId>block-1777302325557-w6ctr07ys</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e0-efgj9953h</odePageId>
+          <odeBlockId>block-1777302325557-w6ctr07ys</odeBlockId>
+          <odeIdeviceId>idevice-1777302325555-bpy7638v7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Competencias específicas</p>
+<p>1. Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.</p>
+<p>CCL3, STEM4, CD1, CPSAA2, CC4 </p>
+<p>2. Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global, para desarrollar un pensamiento crítico, respetuoso con las diferencias, que contribuya a la construcción de la propia identidad y a enriquecer el acervo común.</p>
+<p>CCL1, CP2, STEM1, CD1, CE3 CCL1, CP2, STEM1, CD1, CE3 </p>
+<p>5. Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social.</p>
+<p>CCL3,CC1, CCL3, CC1, CC2, CCEC1</p>
+<p>6. Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país, y valorando la aportación de los movimientos en defensa de la igualdad y la inclusión, para reducir estereotipos, evitar cualquier tipo de discriminación y violencia, y reconocer la riqueza de la diversidad.</p>
+<p>CCL2, CP3, CC2, CC3, CC4, CCEC1 </p>
+<p>9. Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la cooperación internacional y al desarrollo sostenible, para promover la consecución de un mundo más seguro, solidario, sostenible y justo.</p>
+<p>CCL5, STEM5, CC2, CC4, CCEC3 </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302325555-bpy7638v7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Competencias específicas</p>\n<p>1. Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos.</p>\n<p>CCL3, STEM4, CD1, CPSAA2, CC4 </p>\n<p>2. Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global, para desarrollar un pensamiento crítico, respetuoso con las diferencias, que contribuya a la construcción de la propia identidad y a enriquecer el acervo común.</p>\n<p>CCL1, CP2, STEM1, CD1, CE3 CCL1, CP2, STEM1, CD1, CE3 </p>\n<p>5. Analizar de forma crítica planteamientos históricos y geográficos explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social.</p>\n<p>CCL3,CC1, CCL3, CC1, CC2, CCEC1</p>\n<p>6. Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país, y valorando la aportación de los movimientos en defensa de la igualdad y la inclusión, para reducir estereotipos, evitar cualquier tipo de discriminación y violencia, y reconocer la riqueza de la diversidad.</p>\n<p>CCL2, CP3, CC2, CC3, CC4, CCEC1 </p>\n<p>9. Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de convivencia nacional e internacional, reconociendo la contribución del Estado, sus instituciones y otras entidades sociales a la ciudadanía global, a la paz, a la cooperación internacional y al desarrollo sostenible, para promover la consecución de un mundo más seguro, solidario, sostenible y justo.</p>\n<p>CCL5, STEM5, CC2, CC4, CCEC3 </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e1-tu0zthb36</odePageId>
+  <odeParentPageId>page-mokag3dx-kfihpulyk</odeParentPageId>
+  <pageName>Saberes básicos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e1-tu0zthb36</odePageId>
+      <odeBlockId>block-1777302703051-oxwx8f1g7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e1-tu0zthb36</odePageId>
+          <odeBlockId>block-1777302703051-oxwx8f1g7</odeBlockId>
+          <odeIdeviceId>idevice-1777302703049-8v52wknu1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Saberes Básicos</p>
+<p>Bloque A. Retos del mundo actual </p>
+<p>A.1. Sociedad de la información. Búsqueda, tratamiento de la información, uso de datos en entornos digitales y evaluación y contraste de la fiabilidad de las fuentes. El problema de la desinformación. Uso específico del léxico relativo a los ámbitos histórico, artístico y geográfico. </p>
+<p>A.2. Cultura mediática. Técnicas y métodos de las Ciencias Sociales: análisis de textos, interpretación y elaboración de mapas, esquemas y síntesis, representación de gráficos e interpretación de imágenes a través de medios digitales accesibles. </p>
+<p>A.3. Geopolítica y principales conflictos en el presente. Genocidios y crímenes contra la humanidad. Guerras, terrorismo y otras formas de violencia política. Alianzas e instituciones internacionales, mediación y misiones de paz. Injerencia humanitaria y Justicia Universal. </p>
+<p>Bloque B. Sociedades y territorios </p>
+<p>B,1, Métodos de investigación en el ámbito de la Historia. Metodologías del pensamiento histórico. </p>
+<p>B.2. Las fuentes históricas como base para la construcción del conocimiento sobre el pasado contemporáneo. Contraste entre interpretaciones de historiadores. </p>
+<p>B.4. Conciencia histórica. Elaboración de juicios propios y argumentados ante problemas de actualidad contextualizados históricamente. Defensa y exposición crítica de los mismos a través de presentaciones y debates. </p>
+<p>B.6. Relaciones multicausales en la construcción de la democracia y los orígenes del totalitarismo: los movimientos por la libertad, la igualdad y los derechos humanos. La acción de los movimientos sociales en el mundo contemporáneo. Procesos de evolución e involución: la perspectiva emancipadora de la interpretación del pasado. </p>
+<p>B.8. Las relaciones internacionales y estudio crítico y comparativo de conflictos y violencias de la primera mitad del siglo XX. El Holocausto. </p>
+<p>B.17. La memoria democrática, con especial atención al Principado de Asturias. Experiencias históricas dolorosas del pasado reciente y reconocimiento y reparación a las víctimas de la violencia. El principio de Justicia Universal. </p>
+<p>Bloque C. Compromiso cívico </p>
+<p>C.1. Dignidad humana y derechos universales. Declaración Universal de los Derechos Humanos. </p>
+<p>C.2. Diversidad social y multiculturalidad. Integración y cohesión social. </p>
+<p>C.4. Compromiso cívico y participación ciudadana. Mediación y gestión pacífica de conflictos y apoyo a las víctimas de la violencia y del terrorismo. </p>
+<p>C.9. Instituciones del Estado que garantizan la seguridad integral y la convivencia social. Los compromisos internacionales de nuestro país en favor de la paz, la seguridad y la cooperación internacional. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302703049-8v52wknu1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Saberes Básicos</p>\n<p>Bloque A. Retos del mundo actual </p>\n<p>A.1. Sociedad de la información. Búsqueda, tratamiento de la información, uso de datos en entornos digitales y evaluación y contraste de la fiabilidad de las fuentes. El problema de la desinformación. Uso específico del léxico relativo a los ámbitos histórico, artístico y geográfico. </p>\n<p>A.2. Cultura mediática. Técnicas y métodos de las Ciencias Sociales: análisis de textos, interpretación y elaboración de mapas, esquemas y síntesis, representación de gráficos e interpretación de imágenes a través de medios digitales accesibles. </p>\n<p>A.3. Geopolítica y principales conflictos en el presente. Genocidios y crímenes contra la humanidad. Guerras, terrorismo y otras formas de violencia política. Alianzas e instituciones internacionales, mediación y misiones de paz. Injerencia humanitaria y Justicia Universal. </p>\n<p>Bloque B. Sociedades y territorios </p>\n<p>B,1, Métodos de investigación en el ámbito de la Historia. Metodologías del pensamiento histórico. </p>\n<p>B.2. Las fuentes históricas como base para la construcción del conocimiento sobre el pasado contemporáneo. Contraste entre interpretaciones de historiadores. </p>\n<p>B.4. Conciencia histórica. Elaboración de juicios propios y argumentados ante problemas de actualidad contextualizados históricamente. Defensa y exposición crítica de los mismos a través de presentaciones y debates. </p>\n<p>B.6. Relaciones multicausales en la construcción de la democracia y los orígenes del totalitarismo: los movimientos por la libertad, la igualdad y los derechos humanos. La acción de los movimientos sociales en el mundo contemporáneo. Procesos de evolución e involución: la perspectiva emancipadora de la interpretación del pasado. </p>\n<p>B.8. Las relaciones internacionales y estudio crítico y comparativo de conflictos y violencias de la primera mitad del siglo XX. El Holocausto. </p>\n<p>B.17. La memoria democrática, con especial atención al Principado de Asturias. Experiencias históricas dolorosas del pasado reciente y reconocimiento y reparación a las víctimas de la violencia. El principio de Justicia Universal. </p>\n<p>Bloque C. Compromiso cívico </p>\n<p>C.1. Dignidad humana y derechos universales. Declaración Universal de los Derechos Humanos. </p>\n<p>C.2. Diversidad social y multiculturalidad. Integración y cohesión social. </p>\n<p>C.4. Compromiso cívico y participación ciudadana. Mediación y gestión pacífica de conflictos y apoyo a las víctimas de la violencia y del terrorismo. </p>\n<p>C.9. Instituciones del Estado que garantizan la seguridad integral y la convivencia social. Los compromisos internacionales de nuestro país en favor de la paz, la seguridad y la cooperación internacional. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e2-ufyuhqk5j</odePageId>
+  <odeParentPageId>page-mokag3dx-kfihpulyk</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e2-ufyuhqk5j</odePageId>
+      <odeBlockId>block-1777302820327-8l6fhhzr9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e2-ufyuhqk5j</odePageId>
+          <odeBlockId>block-1777302820327-8l6fhhzr9</odeBlockId>
+          <odeIdeviceId>idevice-1777302820325-d7gezqyrg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Criterios de evaluación</p>
+<p>C.E. 1</p>
+<p>1.1. Elaborar contenidos propios en distintos formatos, mediante aplicaciones y estrategias de recogida y representación de datos más complejas, usando y contrastando críticamente fuentes fiables, tanto analógicas como digitales, identificando la desinformación y la manipulación.</p>
+<p>1.2. Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos, que reflejen un dominio y consolidación de los contenidos tratados.</p>
+<p>1.3. Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros productos. </p>
+<p>C.E. 2</p>
+<p>2.1. Generar productos originales y creativos mediante la reelaboración de conocimientos previos a través de herramientas de investigación que permitan explicar problemas presentes y pasados de la humanidad a distintas escalas temporales y espaciales, de lo local a lo global, utilizando conceptos, situaciones y datos relevantes.</p>
+<p>2.2. Producir y expresar juicios y argumentos personales y críticos de forma abierta y respetuosa, haciendo patente la propia identidad y enriqueciendo el acervo común en el contexto del mundo actual, sus retos y sus conflictos desde una perspectiva sistémica y global. </p>
+<p>C.E. 5</p>
+<p>5.1. Conocer, valorar y ejercitar responsabilidades, derechos y deberes y actuar en favor de su desarrollo y afirmación, a través del conocimiento de nuestro ordenamiento jurídico y constitucional, de la comprensión y puesta en valor de nuestra memoria democrática y de los aspectos fundamentales que la conforman, de la contribución de los hombres y mujeres a la misma y la defensa de nuestros valores constitucionales. </p>
+<p>5.2. Reconocer movimientos y causas que generen una conciencia solidaria, promuevan la cohesión social, y trabajen para la eliminación de la desigualdad, especialmente la motivada por cuestión de género, y para el pleno desarrollo de la ciudadanía, mediante la movilización de conocimientos y estrategias de participación, trabajo en equipo, mediación y resolución pacífica de conflictos. CCL3, CC1, CC2, CCEC1</p>
+<p>C.E. 6</p>
+<p>6.1. Rechazar actitudes discriminatorias y reconocer la riqueza de la diversidad, a partir del análisis de la relación entre los aspectos geográficos, históricos, ecosociales y culturales que han conformado la sociedad globalizada y multicultural actual, y del conocimiento de la aportación de los movimientos en defensa de los derechos de las minorías y en favor de la inclusión y la igualdad real, especialmente de las mujeres y de otros colectivos discriminados.</p>
+<p>6.2. Contribuir al bienestar individual y colectivo a través del diseño, exposición y puesta en práctica de iniciativas orientadas a promover un compromiso activo con los valores comunes, la mejora del entorno y el servicio a la comunidad.</p>
+<p>C.E. 9</p>
+<p>9.2. Contribuir a la consecución de un mundo más seguro, justo, solidario y sostenible, a través del análisis de los principales conflictos del presente y el reconocimiento de las instituciones del Estado, y de las asociaciones civiles que garantizan la seguridad integral y la convivencia social, así como de los compromisos internacionales de nuestro país en favor de la paz, la seguridad, la cooperación, la sostenibilidad, los valores democráticos y los Objetivos de Desarrollo Sostenible. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302820325-d7gezqyrg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Criterios de evaluación</p>\n<p>C.E. 1</p>\n<p>1.1. Elaborar contenidos propios en distintos formatos, mediante aplicaciones y estrategias de recogida y representación de datos más complejas, usando y contrastando críticamente fuentes fiables, tanto analógicas como digitales, identificando la desinformación y la manipulación.</p>\n<p>1.2. Establecer conexiones y relaciones entre los conocimientos e informaciones adquiridos, elaborando síntesis interpretativas y explicativas, mediante informes, estudios o dosieres informativos, que reflejen un dominio y consolidación de los contenidos tratados.</p>\n<p>1.3. Transferir adecuadamente la información y el conocimiento por medio de narraciones, pósteres, presentaciones, exposiciones orales, medios audiovisuales y otros productos. </p>\n<p>C.E. 2</p>\n<p>2.1. Generar productos originales y creativos mediante la reelaboración de conocimientos previos a través de herramientas de investigación que permitan explicar problemas presentes y pasados de la humanidad a distintas escalas temporales y espaciales, de lo local a lo global, utilizando conceptos, situaciones y datos relevantes.</p>\n<p>2.2. Producir y expresar juicios y argumentos personales y críticos de forma abierta y respetuosa, haciendo patente la propia identidad y enriqueciendo el acervo común en el contexto del mundo actual, sus retos y sus conflictos desde una perspectiva sistémica y global. </p>\n<p>C.E. 5</p>\n<p>5.1. Conocer, valorar y ejercitar responsabilidades, derechos y deberes y actuar en favor de su desarrollo y afirmación, a través del conocimiento de nuestro ordenamiento jurídico y constitucional, de la comprensión y puesta en valor de nuestra memoria democrática y de los aspectos fundamentales que la conforman, de la contribución de los hombres y mujeres a la misma y la defensa de nuestros valores constitucionales. </p>\n<p>5.2. Reconocer movimientos y causas que generen una conciencia solidaria, promuevan la cohesión social, y trabajen para la eliminación de la desigualdad, especialmente la motivada por cuestión de género, y para el pleno desarrollo de la ciudadanía, mediante la movilización de conocimientos y estrategias de participación, trabajo en equipo, mediación y resolución pacífica de conflictos. CCL3, CC1, CC2, CCEC1</p>\n<p>C.E. 6</p>\n<p>6.1. Rechazar actitudes discriminatorias y reconocer la riqueza de la diversidad, a partir del análisis de la relación entre los aspectos geográficos, históricos, ecosociales y culturales que han conformado la sociedad globalizada y multicultural actual, y del conocimiento de la aportación de los movimientos en defensa de los derechos de las minorías y en favor de la inclusión y la igualdad real, especialmente de las mujeres y de otros colectivos discriminados.</p>\n<p>6.2. Contribuir al bienestar individual y colectivo a través del diseño, exposición y puesta en práctica de iniciativas orientadas a promover un compromiso activo con los valores comunes, la mejora del entorno y el servicio a la comunidad.</p>\n<p>C.E. 9</p>\n<p>9.2. Contribuir a la consecución de un mundo más seguro, justo, solidario y sostenible, a través del análisis de los principales conflictos del presente y el reconocimiento de las instituciones del Estado, y de las asociaciones civiles que garantizan la seguridad integral y la convivencia social, así como de los compromisos internacionales de nuestro país en favor de la paz, la seguridad, la cooperación, la sostenibilidad, los valores democráticos y los Objetivos de Desarrollo Sostenible. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e3-dsxkn7naw</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e3-dsxkn7naw</odePageId>
+      <odeBlockId>block-1777302883646-vb6vzgs4u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e3-dsxkn7naw</odePageId>
+          <odeBlockId>block-1777302883646-vb6vzgs4u</odeBlockId>
+          <odeIdeviceId>idevice-1777302883644-183csoy9w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de la situación de aprendizaje se complementarán los modelos metodológicos principales: el aprendizaje cooperativo y el aprendizaje basado en proyectos.</p>
+<p>Aprendizaje cooperativo: es una estrategia didáctica en la que el alumnado trabaja en equipo para desarrollar una tarea, actividad o proyecto. A cada estudiante se le adjudica un papel en función de sus habilidades, de manera que cada integrante del grupo desarrolla la parte del trabajo que mejor se adapta a sus características personales. La elaboración del guion de la entrevista se realizará a través de agrupamientos colaborativos, que más adelante se coordinarán con el resto de grupos para entre todos configurar un modelo de cuestionario para la entrevista.</p>
+<p><br /></p>
+<p>El Aprendizaje Basado en Proyectos (ABP) es una metodología activa que coloca al alumnado en el centro del proceso educativo. En lugar de ser meros receptores de información, cada estudiante se convierte en protagonista al abordar problemas reales, generando proyectos significativos. Esta metodología crea un ambiente de interacción y motivación por aprender.  En líneas generales, el ABP consiste en la realización de un “Proyecto” que tendrá como resultado un producto final, que será difundido. El proyecto debe basarse en un problema real y desarrollar el pensamiento crítico. Confeccionar un archivo digital sobre migraciones y que recoja experiencias cercanas del alumnado es el objetivo final del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302883644-183csoy9w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de la situación de aprendizaje se complementarán los modelos metodológicos principales: el aprendizaje cooperativo y el aprendizaje basado en proyectos.</p>\n<p>Aprendizaje cooperativo: es una estrategia didáctica en la que el alumnado trabaja en equipo para desarrollar una tarea, actividad o proyecto. A cada estudiante se le adjudica un papel en función de sus habilidades, de manera que cada integrante del grupo desarrolla la parte del trabajo que mejor se adapta a sus características personales. La elaboración del guion de la entrevista se realizará a través de agrupamientos colaborativos, que más adelante se coordinarán con el resto de grupos para entre todos configurar un modelo de cuestionario para la entrevista.</p>\n<p><br /></p>\n<p>El Aprendizaje Basado en Proyectos (ABP) es una metodología activa que coloca al alumnado en el centro del proceso educativo. En lugar de ser meros receptores de información, cada estudiante se convierte en protagonista al abordar problemas reales, generando proyectos significativos. Esta metodología crea un ambiente de interacción y motivación por aprender.  En líneas generales, el ABP consiste en la realización de un “Proyecto” que tendrá como resultado un producto final, que será difundido. El proyecto debe basarse en un problema real y desarrollar el pensamiento crítico. Confeccionar un archivo digital sobre migraciones y que recoja experiencias cercanas del alumnado es el objetivo final del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e4-a2ub0vydz</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e4-a2ub0vydz</odePageId>
+      <odeBlockId>block-1777302999885-z1jwaukk9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e4-a2ub0vydz</odePageId>
+          <odeBlockId>block-1777302999885-z1jwaukk9</odeBlockId>
+          <odeIdeviceId>idevice-1777302999883-buab7a46p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Plan de lectura, escritura e investigación.</p>
+<p>Plan de digitalización.</p>
+<p>Plan de acción tutorial.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777302999883-buab7a46p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Plan de lectura, escritura e investigación.</p>\n<p>Plan de digitalización.</p>\n<p>Plan de acción tutorial.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e4-uk63y3l8b</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e4-uk63y3l8b</odePageId>
+      <odeBlockId>block-1777303158323-lnqkck0ej</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e4-uk63y3l8b</odePageId>
+          <odeBlockId>block-1777303158323-lnqkck0ej</odeBlockId>
+          <odeIdeviceId>idevice-1777303158322-9se3ij3dd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Salida por Avilés buscando las placas dedicadas a los deportados a campos nazi.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777303158322-9se3ij3dd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Salida por Avilés buscando las placas dedicadas a los deportados a campos nazi.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mokag3e6-4j8aapw9h</odePageId>
+  <odeParentPageId>page-mokag3dq-rc548roow</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mokag3e6-4j8aapw9h</odePageId>
+      <odeBlockId>block-1777303800718-tnqbqev8j</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mokag3e6-4j8aapw9h</odePageId>
+          <odeBlockId>block-1777303800718-tnqbqev8j</odeBlockId>
+          <odeIdeviceId>idevice-1777303800716-b4405qlng</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">HISTORIAS DE LA 2ª GUERRA MUNDIAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Visionado de "Los últimos españoles de Mathausen" y resolución de un test sobre el documental.
+Búsqueda de información sobre otras historias relacionadas con la 2ªGM, elaboración de una presentación y exposición.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Roberto López García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
